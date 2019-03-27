@@ -5,8 +5,7 @@
   "description": "Text to speak app using web speech API",
   "main": "index.js",
   "scripts": {
-    "build": "gh-pages -d build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "author": "Al Talford",
   "license": "MIT",
