@@ -1,0 +1,16 @@
+{
+  "name": "text-speak",
+  "homepage": "https://ajtalford.github.io/text2-speech",
+  "version": "1.0.0",
+  "description": "Text to speak app using web speech API",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Al Talford",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
